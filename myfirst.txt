@@ -1,2 +1,2 @@
-This is my first file about git. I am excited to learn more about git.
-And one day master Git and related applications.
+This is my second file
+Learning bitbucket
